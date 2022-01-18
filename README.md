@@ -1,4 +1,4 @@
 # odin-recipes
 The Odin Project - Recipes project 
 
-This is a Project:Recepies fro The Odin Project
+This is a Project:Recipes fro The Odin Project
